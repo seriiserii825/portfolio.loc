@@ -1,0 +1,24 @@
+@import "../sass/partials/_start.scss";
+
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+
+.btn,
+a.btn {
+  @include monsseratbold;
+  @include inline-block;
+
+  /*padding: 0 42px;
+  height: 42px;
+  font-size: .8em;
+  line-height: 42px;
+  text-transform: uppercase;
+  color: $white;
+  background: $green;
+  border-right: 5px solid lighten($green, 5%);*/
+}
