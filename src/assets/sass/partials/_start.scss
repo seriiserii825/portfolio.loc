@@ -7,8 +7,10 @@
 //@import "../sass/partials/icons";
 
 body {
-  color: #aaa;
-  background: #666;
+  margin: 0;
+  margin-bottom: 200px;
+  color: $text-color;
+  background: $body-bg;
 }
 
 ul {
@@ -24,4 +26,15 @@ h4,
 h5,
 h6 {
   margin: 0;
+}
+
+.title {
+  @include museosansregular;
+  font-size: 35px;
+  font-weight: normal;
+  color: $title-color;
+
+  &.title_small {
+    font-size: 26px;
+  }
 }

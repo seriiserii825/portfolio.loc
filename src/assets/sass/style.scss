@@ -2,4 +2,202 @@
 @import "partials/iconmoon";
 @import "../sass/partials/_start.scss";
 
+.border-bottom {
+  position: relative;
+  padding-bottom: 20px;
 
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background: #989BA1;
+    border-bottom: 1px solid #C9CCD1;
+  }
+}
+
+.section-top {
+  height: 85px;
+  background: url("../i/section-top.png") no-repeat center;
+}
+
+/* main
+====================================================*/
+.main {
+  background: linear-gradient(#C1C5CD 0%, #B3B7C0 20%, #B3B7C0 100%);
+}
+
+/* slider
+====================================================*/
+.slider {
+  &-wrap {
+    margin-top: 100px;
+    margin-bottom: 80px;
+
+    @media screen and (max-width: $sm) {
+      margin-bottom: 80px;
+    }
+
+    @media screen and (max-width: 500px) {
+      margin-bottom: 40px;
+    }
+
+    @media screen and (max-width: 400px) {
+      margin-bottom: 20px;
+    }
+
+    .title {
+      @media screen and (max-width: 440px) {
+        margin-bottom: 30px;
+        text-align: center;
+      }
+    }
+
+    .buttons-wrap {
+      display: table;
+      margin-right: 40px;
+
+      @media screen and (max-width: 440px) {
+        margin: 0 auto;
+      }
+    }
+
+    .btn {
+      position: relative;
+      display: inline-block;
+      margin-left: 14px;
+      width: 58px;
+      height: 30px;
+      border-radius: 4px;
+      border: none;
+      background: none;
+      cursor: pointer;
+      z-index: 1;
+
+      &:hover,
+      &:active,
+      &:focus {
+        outline: none;
+      }
+
+      &:hover {
+        .icon::before {
+          color: darken(#979CA3, 10%);
+        }
+      }
+    }
+
+    .icon {
+      font-size: 32px;
+      line-height: .9;
+      transition: all .6s ease;
+
+      &::before {
+        transition: all .5s ease;
+      }
+    }
+
+    span:last-child {
+      position: absolute;
+      top: 50%;
+      left: 65%;
+      transform: translate(-50%, -50%);
+      color: $text-gray;
+    }
+  }
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+
+    @media screen and (max-width: 440px) {
+      display: block;
+    }
+  }
+
+  &__content {
+    min-height: 600px;
+
+    @media screen and (max-width: $lg) {
+        min-height: 210px;
+    }
+
+    @media screen and (max-width: $md) {
+      min-height: 304px;
+    }
+
+    @media screen and (max-width: 400px) {
+      min-height: 200px;
+    }
+  }
+
+  &__item {
+    margin: 40px;
+    border-radius: 30px;
+    box-shadow: 2px 5px 15px rgba(0, 0, 0, .4);
+  }
+}
+
+/* about
+====================================================*/
+.about-list {
+  &__item {
+    margin-bottom: 50px;
+  }
+
+  &__title {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+
+  .fa {
+    margin-right: 20px;
+    font-size: 20px;
+  }
+
+  &__text {
+    @include georgiaitalic;
+  }
+}
+
+/* skill-list
+====================================================*/
+
+.title.title_small {
+  padding-bottom: 30px;
+}
+
+.skill-list {
+  margin-top: 40px;
+
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    line-height: 25px;
+  }
+
+  .stars {
+    display: inline-block;
+    width: 107px;
+    height: 18px;
+  }
+}
+
+
+/* sidebar
+====================================================*/
+.sidebar {
+  &-block {
+    margin-bottom: 60px;
+  }
+
+  .text {
+    @include georgiaitalic;
+    font-size: 14px;
+  }
+}

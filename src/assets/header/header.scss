@@ -10,15 +10,110 @@ a:active {
 
 .btn,
 a.btn {
-  @include monsseratbold;
   @include inline-block;
+}
 
-  /*padding: 0 42px;
-  height: 42px;
-  font-size: .8em;
-  line-height: 42px;
-  text-transform: uppercase;
-  color: $white;
-  background: $green;
-  border-right: 5px solid lighten($green, 5%);*/
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* header
+====================================================*/
+.main-header {
+  padding-top: 52px;
+  background: linear-gradient(to right, #8C919D 0%, #BFC2C9 30%, #8c919d 100%);
+
+  .img-wrap {
+    margin-bottom: -4px;
+
+    @media screen and (max-width: $lg) {
+      display: table;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+.designer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 85px;
+  margin-bottom: 45px;
+  margin-left: 0;
+
+  @media screen and (max-width: $lg) {
+    justify-content: center;
+  }
+
+  .img-wrap {
+    margin-right: 10px;
+    margin-left: 5px;
+    width: 84px;
+    height: 75px;
+    filter: drop-shadow(0 1px 3px rgba(0,0,0,.5));
+    overflow: hidden;
+    transition: all .8s ease;
+
+    &:hover {
+      box-shadow: none;
+      cursor: pointer;
+    }
+  }
+
+  &__title {
+    @include museosansregular;
+    font-size: 35px;
+    color: $white;
+    text-shadow: 0 1px 0 rgba(71, 77, 87, 0.75);
+  }
+}
+
+/* main-menu
+====================================================*/
+.main-menu {
+  display: table;
+  margin-left: auto;
+  background: $black;
+  box-shadow: 0 1px 1px rgba(164, 166, 171, 0.75);
+  border-radius: 10px;
+
+  @media screen and (max-width: $lg) {
+    margin: 40px auto;
+  }
+
+  &__item {
+    display: inline-block;
+    vertical-align: top;
+
+    &:first-child {
+      .main-menu__link::after{
+        background: none;
+      }
+    }
+  }
+
+  &__link {
+    position: relative;
+    display: block;
+    padding: 15px 20px 15px 48px;
+    color: #676d7b;
+    transition: all .5s ease;
+
+    &::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 1px;
+      height: 100%;
+      background: linear-gradient($black 0%, $white 50%, $black 100%);
+    }
+
+    &:hover,
+    &:active {
+      color: $blue;
+    }
+  }
 }
