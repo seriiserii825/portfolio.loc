@@ -22,6 +22,18 @@ $(function(){
     $('#slider').slick({
         appendArrows: $('.buttons-wrap'),
         prevArrow: '<button class="btn btn-left" id="js-btn-left"><i class="icon icon-btn-bg"></i><span>prev</span></button>',
-        nextArrow: '<button class="btn btn-right" id="js-btn-right"><span class="icon icon-btn--right-bg"></span><span>next</span></button>'
+        nextArrow: '<button class="btn btn-right" id="js-btn-right"><span class="icon icon-btn--right-bg"></span><span>next</span></button>',
+        asNavFor: '#slider-small',
+    });
+
+    $('#slider-small').slick({
+      slidesToShow: 7,
+      asNavFor: '#slider',
+      centerMode: true,
+      focusOnSelect: true
+    });
+
+    $('.slider-small__item').on('click', function (e) {
+        e.preventDefault();
     });
 });
