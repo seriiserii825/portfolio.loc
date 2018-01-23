@@ -136,7 +136,7 @@
   }
 
   &__item {
-    margin: 40px;
+    margin: 40px 40px 0 40px;
     border-radius: 30px;
     box-shadow: 2px 5px 15px rgba(0, 0, 0, .4);
   }
@@ -206,14 +206,44 @@
 /* contacts
 ====================================================*/
 .contacts-form {
+  @media screen and (max-width: $md) {
+    margin-bottom: 120px;
+  }
+
   &__item {
     display: block;
     margin-bottom: 20px;
     text-indent: 15px;
     width: 100%;
+    color: $white;
     background: #666e80;
     border: none;
     border-radius: 10px;
+  }
+
+  .send-copy {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    label,
+    input {
+      cursor: pointer;
+    }
+
+    .submit {
+      padding: 10px 20px;
+      text-align: center;
+      color: $white;
+      background: darken(#666e80, 10%);
+      border: none;
+      border-radius: 20px;
+      transition: all .5s ease;
+
+      &:hover {
+        background: darken(#666e80, 20%);
+      }
+    }
   }
 
   input.contacts-form__item {
@@ -221,6 +251,10 @@
 
     &:last-child {
       margin-bottom: 0;
+
+      @media screen and (max-width: $md) {
+        margin-bottom: 30px;
+      }
     }
   }
 
@@ -237,5 +271,15 @@
   textarea.contacts-form__item {
     padding-top: 15px;
     height: 100%;
+  }
+}
+
+.contacts-list {
+  &__item {
+    margin-bottom: 10px;
+  }
+
+  .fa {
+    margin-right: 15px;
   }
 }
