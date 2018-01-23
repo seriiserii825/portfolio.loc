@@ -306,3 +306,34 @@
     margin-right: 15px;
   }
 }
+
+
+/* btn-up
+====================================================*/
+.btn-up {
+  position: fixed;
+  bottom: 20%;
+  right: 6%;
+  padding: 15px 25px;
+  text-align: center;
+  color: $white;
+  background: linear-gradient(#777, #444);
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all .8s ease;
+  opacity: 0;
+
+  &.show {
+    opacity: 1;
+  }
+
+  &:hover {
+    background: linear-gradient(#444, #444);
+  }
+
+  &:active,
+  &:focus {
+    outline: none;
+  }
+}
