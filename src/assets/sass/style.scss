@@ -5,6 +5,7 @@
 .border-bottom {
   position: relative;
   padding-bottom: 20px;
+  margin-bottom: 30px;
 
   &::after {
     content: '';
@@ -199,5 +200,42 @@
   .text {
     @include georgiaitalic;
     font-size: 14px;
+  }
+}
+
+/* contacts
+====================================================*/
+.contacts-form {
+  &__item {
+    display: block;
+    margin-bottom: 20px;
+    text-indent: 15px;
+    width: 100%;
+    background: #666e80;
+    border: none;
+    border-radius: 10px;
+  }
+
+  input.contacts-form__item {
+    height: 40px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  input::-webkit-input-placeholder,
+  textarea::-webkit-input-placeholder {
+    color: $white;
+  }
+
+  input::-moz-placeholder,
+  textarea::-moz-placeholder {
+    color: $white;
+  }
+
+  textarea.contacts-form__item {
+    padding-top: 15px;
+    height: 100%;
   }
 }
