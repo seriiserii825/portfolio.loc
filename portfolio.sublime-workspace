@@ -4,311 +4,73 @@
 		"selected_items":
 		[
 			[
-				"disable",
-				"disable\t(): void NativeScript - Module trace"
+				"title",
+				"title_small"
 			],
 			[
-				"addEve",
-				"addEventListener\t( type: string, listener: EventListenerOrEventListenerObject, useCapture?: boolean ): any NativeScript - XMLHttpRequestEventTarget"
+				"left-si",
+				"left-sidebar__object"
 			],
 			[
-				"query",
-				"querySelectorAll\t( selectors: DOMString ): NodeList Element"
+				"left",
+				"left-sidebar"
 			],
 			[
-				"current",
-				"currentColor"
+				"align-it",
+				"align-items-center \tBootstrap 4 Class"
 			],
 			[
-				"nextEle",
-				"nextElement"
+				"lst-n",
+				"list-n\tlist-style-type: none;"
 			],
 			[
-				"next",
-				"nextColor"
+				"jus",
+				"justify-content-between \tBootstrap 4 Class"
 			],
 			[
-				"nextElemen",
-				"nextElementArr[1"
+				"boot",
+				"bootstrap-reboot.scss"
 			],
 			[
-				"nextELement",
-				"nextElementSibling\t: Element Element"
+				"nod",
+				"node_modules/"
 			],
 			[
-				"nextE",
-				"nextElementAttr"
+				"image",
+				"image:dev"
 			],
 			[
-				"getElem",
-				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+				"ta",
+				"tasks"
 			],
 			[
-				"show",
-				"showBlock"
+				"bro",
+				"browserSync.js"
 			],
 			[
-				"ch",
-				"children\t.children()"
+				"fun",
+				"function\t(gulpfile.js)"
 			],
 			[
-				"previ",
-				"previousElementSibling\t: Element Element"
+				"brows",
+				"browserSync"
 			],
 			[
-				"getELe",
-				"getElementById\t( elementId: DOMString ): Element Document"
+				"brow",
+				"browser-sync"
 			],
 			[
-				"getELeme",
-				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
-			],
-			[
-				"le",
-				"length\t: int String"
-			],
-			[
-				"thi",
-				"thirdElement"
-			],
-			[
-				"back",
-				"backgroundColor"
-			],
-			[
-				"cha",
-				"changeColor"
-			],
-			[
-				"queryS",
-				"querySelector\t( selectors: DOMString ): Element Element"
-			],
-			[
-				"add",
-				"address"
-			],
-			[
-				"che",
-				"checkAge"
-			],
-			[
-				"getTo",
-				"getTotalDist"
-			],
-			[
-				"for",
-				"for\tfor (…) {…}"
-			],
-			[
-				"lg",
-				"lg\tlg-media"
-			],
-			[
-				"cont",
-				"contacts-text\t(home.html)"
-			],
-			[
-				"social",
-				"social-item\t(home.html)"
-			],
-			[
-				"trans",
-				"transparent"
-			],
-			[
-				"u",
-				"url()"
-			],
-			[
-				"home",
-				"home-title\t(index.html)"
-			],
-			[
-				"open",
-				"opensans\t(_mixins.scss)"
+				"sc",
+				"scss"
 			],
 			[
 				"pa",
-				"partials\t(_start.scss)"
-			],
-			[
-				"im",
-				"import\t(_start.scss)"
-			],
-			[
-				"copy",
-				"copyright\t(end.html)"
-			],
-			[
-				"footer",
-				"footer-inner\t(end.html)"
-			],
-			[
-				"bot",
-				"bot\tbottom"
-			],
-			[
-				"gall",
-				"gallery--item"
-			],
-			[
-				"img",
-				"img-wrap\t(index.html)"
-			],
-			[
-				"g",
-				"gallery-1.jpg\tw:350 h:233"
-			],
-			[
-				"se",
-				"section-text\t(index.html)"
-			],
-			[
-				"secti",
-				"section-header\t(index.html)"
-			],
-			[
-				"section",
-				"section-title"
-			],
-			[
-				"sec",
-				"section-dark"
-			],
-			[
-				"fa",
-				"favicon:build"
-			],
-			[
-				"card",
-				"card-3"
-			],
-			[
-				"logo",
-				"logo.png"
-			],
-			[
-				"conta",
-				"container"
-			],
-			[
-				"anim",
-				"animate\t.animate()"
-			],
-			[
-				"but",
-				"button"
-			],
-			[
-				"compl",
-				"complexex"
-			],
-			[
-				"com",
-				"complexex"
-			],
-			[
-				"fil",
-				"filterObj"
-			],
-			[
-				"comp",
-				"complexArr"
-			],
-			[
-				"su",
-				"submit\t(lab-2-1.js)"
-			],
-			[
-				"text",
-				"textarea"
-			],
-			[
-				"em",
-				"emptyField"
-			],
-			[
-				"remo",
-				"removeClass\t.removeClass()"
-			],
-			[
-				"mouselea",
-				"mouseleave"
-			],
-			[
-				"form",
-				"form__title\t(lab-2-1.html)"
-			],
-			[
-				"hid",
-				"hidden\t(lab-2-1.html)"
-			],
-			[
-				"off",
-				"offset\t.offset()"
-			],
-			[
-				"bo",
-				"box"
-			],
-			[
-				"to",
-				"toggle\t(demo-2-1.html)"
-			],
-			[
-				"lab",
-				"lab-1.js"
-			],
-			[
-				"s",
-				"script.js"
-			],
-			[
-				"va",
-				"value\tAttr"
-			],
-			[
-				"optin",
-				"option\tTag"
-			],
-			[
-				"toL",
-				"toLocaleDateString\t(): string Date"
-			],
-			[
-				"us",
-				"user"
+				"partials\t(gulpfile.js)"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 10816,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/index.html",
-			"settings":
-			{
-				"buffer_size": 14920,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/head.html",
-			"settings":
-			{
-				"buffer_size": 1726,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -317,276 +79,60 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 172.0,
-		"last_filter": "",
+		"height": 400.0,
+		"last_filter": "loc",
 		"selected_items":
 		[
 			[
-				"keybi",
-				"Preferences: Key Bindings"
-			],
-			[
-				"settings",
-				"Preferences: Settings"
-			],
-			[
-				"remove pack",
-				"Package Control: Remove Package"
-			],
-			[
-				"findkey",
-				"FindKeyConflicts: All Conflicts"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings"
-			],
-			[
-				"keyb",
-				"Preferences: Key Bindings"
-			],
-			[
-				"keybin",
-				"Preferences: Terminal View: Keybindings"
-			],
-			[
-				"settin",
-				"Preferences: Settings"
-			],
-			[
-				"ke",
-				"Preferences: Key Bindings"
-			],
-			[
-				"termin",
-				"Terminal View: Open Bash Terminal"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
-				"packge",
-				"Package Control: List Packages"
-			],
-			[
-				"remov",
-				"Package Control: Remove Package"
-			],
-			[
-				"install ",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"pref",
-				"Preferences: Settings"
-			],
-			[
-				"enable",
-				"Package Control: Enable Package"
-			],
-			[
-				"disab",
-				"Package Control: Disable Package"
-			],
-			[
-				"gist",
-				"Gist: Open Gist"
-			],
-			[
-				"p",
-				"Preferences: Settings"
-			],
-			[
-				"prefere",
-				"Preferences: Settings"
-			],
-			[
-				"git stat",
-				"git: status"
-			],
-			[
-				"ky",
-				"FindKeyConflicts: All Conflicts"
-			],
-			[
-				"term",
-				"Terminal View: Open Bash Terminal"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"all",
-				"FindKeyConflicts: All Conflicts"
-			],
-			[
-				"finda",
-				"FindKeyConflicts: All Conflicts"
-			],
-			[
-				"termina",
-				"Preferences: Terminal View: Readme"
-			],
-			[
-				"keycon",
-				"FindKeyConflicts: All Conflicts"
-			],
-			[
-				"trem",
-				"Terminal View: Open Bash Terminal"
-			],
-			[
-				"terminal",
-				"Terminal View: Open Bash Terminal"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
-				"git commi",
-				"git: commit"
-			],
-			[
-				"git push",
-				"git: push"
-			],
-			[
-				"git status",
-				"git: status"
-			],
-			[
-				"gulp",
-				"Gulp: Run last task"
-			],
-			[
-				"git log",
-				"git: log"
-			],
-			[
-				"run las",
-				"Gulp: Run last task"
-			],
-			[
-				"run last",
-				"Gulp: Run last task"
-			],
-			[
-				"gulp: list",
-				"Gulp: List plugins"
-			],
-			[
-				"github",
-				"github: open repo"
-			],
-			[
-				"git graph",
-				"git: graph"
-			],
-			[
-				"log",
-				"git: log"
-			],
-			[
-				"githu",
-				"git: graph current file"
-			],
-			[
-				"statu",
-				"git: status"
-			],
-			[
-				"git loc",
-				"git: log current file"
-			],
-			[
-				"sta",
-				"git: status"
-			],
-			[
-				"status",
-				"git: status"
-			],
-			[
-				"git bra",
-				"git: branch"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
+				"loc",
+				"Local History: Create Snapshot"
 			],
 			[
 				"local",
 				"Local History: Open"
 			],
 			[
-				"loc",
-				"Local History: Save Now"
+				"install pa",
+				"Package Control: Install Package"
 			],
 			[
-				"filedi",
-				"FileDiffs: Menu"
-			],
-			[
-				"diff",
-				"FileDiffs: Menu"
-			],
-			[
-				"filed",
-				"FileDiffs: Menu"
-			],
-			[
-				"locl",
-				"Local History: Browse in Explorer"
-			],
-			[
-				"loca",
-				"Local History: Menu"
-			],
-			[
-				"findk",
-				"FindKeyConflicts: All Key Maps to Quick Panel"
-			],
-			[
-				"emmet: ",
-				"Emmet: Split\\Join Tag"
+				"uplo",
+				"Sync Settings: Upload"
 			],
 			[
 				"k",
-				"FindKeyConflicts: All Key Maps to Quick Panel"
-			],
-			[
-				"prefe",
 				"Preferences: Key Bindings"
 			],
 			[
-				"find",
-				"FindKeyConflicts: All Key Maps to Quick Panel"
+				"pref",
+				"Preferences: Settings"
 			],
 			[
-				"task",
-				"Tasks: Complete"
+				"html",
+				"HTMLBeautify"
 			],
 			[
-				"packages",
-				"Preferences: Browse Packages"
+				"install",
+				"Package Control: Install Package"
 			],
 			[
-				"auto",
-				"AutoBackups: Open Backups Folder"
+				"insta",
+				"Package Control: Install Package"
 			],
 			[
-				"i",
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instlal ",
 				"Package Control: Install Package"
 			],
 			[
@@ -594,174 +140,113 @@
 				"Package Control: Install Package"
 			],
 			[
-				"packagelist",
-				"Package Control: List Packages"
+				"bra",
+				"git: branch"
 			],
 			[
-				"run",
-				"Run CSScomb"
+				"branch",
+				"git: branch"
 			],
 			[
-				"csscom",
-				"Run CSScomb"
+				"stat",
+				"git: status"
 			],
 			[
-				"color",
-				"Color Picker"
+				"bran",
+				"git: branch"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"git branch",
+				"git: branch"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"git status",
+				"git: status"
 			],
 			[
 				"pre",
 				"Preferences: Settings"
 			],
 			[
-				"pack",
-				"Preferences: Browse Packages"
+				"br",
+				"git: branch"
 			],
 			[
-				"bea",
-				"SassBeautify"
+				"git push",
+				"git: push"
 			],
 			[
-				"dis",
-				"Package Control: Disable Package"
+				"git stat",
+				"git: status"
 			],
 			[
-				"disal",
-				"Package Control: Disable Package"
-			],
-			[
-				"disabl",
-				"Package Control: Disable Package"
-			],
-			[
-				"manager",
-				"Clipboard Manager: Show History"
-			],
-			[
-				"history",
-				"Local History: Snapshots"
-			],
-			[
-				"clip",
-				"Clipboard Manager: Show History"
-			],
-			[
-				"prett",
-				"HTMLPrettify"
-			],
-			[
-				"pretti",
-				"HTMLPrettify: Set Prettify Preferences"
-			],
-			[
-				"Package Control: install",
-				"Package Control: Install Package"
-			],
-			[
-				"git commit",
-				"Git: Commit history"
-			],
-			[
-				"git commit hi",
-				"Git: Commit history"
-			],
-			[
-				"git",
-				"Git: Push"
-			],
-			[
-				"web",
-				"Set Syntax: Web Inspector (Stack)"
-			],
-			[
-				"we",
-				"Set Syntax: Web Inspector (Log)"
-			],
-			[
-				"git hi",
-				"Github: History"
-			],
-			[
-				"git comm",
-				"Git: Commit"
-			],
-			[
-				"git add",
-				"Git: Add..."
-			],
-			[
-				"git com",
-				"Git: Commit"
+				"git sta",
+				"git: stash apply"
 			],
 			[
 				"disable",
 				"Package Control: Disable Package"
 			],
 			[
-				"gutter",
-				"Preferences: GitGutter Popup Stylesheet"
+				"push",
+				"Git: Push"
 			],
 			[
-				"git ",
-				"Github: History"
-			],
-			[
-				"git gu",
-				"GitGutter: Support Info"
-			],
-			[
-				"git sta",
-				"GitStatus: Changed files"
-			],
-			[
-				"install pa",
-				"Package Control: Install Package"
-			],
-			[
-				"jslint",
-				"Build With: JSLint"
-			],
-			[
-				"package settin",
-				"Preferences: Package Control Settings – Default"
-			],
-			[
-				"",
-				"BracketHighlighter: Documentation"
-			],
-			[
-				"instlall",
-				"Package Control: Install Local Dependency"
-			],
-			[
-				"package list",
-				"Package Control: List Packages"
-			],
-			[
-				"setting",
+				"p",
 				"Preferences: Settings"
 			],
 			[
-				"package",
-				"Package Control: Remove Package"
+				"q",
+				"Git: Quick Commit (repo)"
 			],
 			[
-				"s",
-				"SassBeautify"
+				"a",
+				"Git: Add All"
 			],
 			[
-				"sass ",
-				"SassBeautify"
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"up",
+				"Sync Settings: Upload"
+			],
+			[
+				"upl",
+				"Sync Settings: Upload"
+			],
+			[
+				"dow",
+				"Sync Settings: Download"
+			],
+			[
+				"downlo",
+				"Sync Settings: Download"
 			]
 		],
 		"width": 537.0
 	},
 	"console":
 	{
-		"height": 165.0,
+		"height": 0.0,
 		"history":
 		[
-			"exit"
 		]
 	},
 	"distraction_free":
@@ -773,150 +258,50 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/var/www/portfolio.loc",
-		"/var/www/portfolio.loc/src",
-		"/var/www/portfolio.loc/src/templates"
-	],
 	"file_history":
 	[
-		"/var/www/design-group.loc/gulpfile.js",
-		"/var/www/test.loc/script.js",
-		"/var/www/test.loc/style.css",
-		"/var/www/test.loc/index.html",
-		"/var/www/test.loc/README.txt",
-		"/home/serii/settings/sublime-text-3/Packages/User/css_style_completions.sublime-settings",
-		"/home/serii/settings/sublime-text-3/Packages/CSS Extended Completions/css_style_completions.sublime-settings",
-		"/home/serii/settings/sublime-text-3/Packages/User/Emmet.sublime-settings",
-		"/home/serii/settings/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
-		"/tmp/isnumeric",
-		"/var/www/transcargo.loc/src/templates/head.html",
-		"/var/www/transcargo.loc/src/assets/header/header.scss",
-		"/home/serii/Settings/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-		"/var/www/transcargo.loc/src/home.html",
-		"/home/serii/Settings/sublime-text-3/Packages/User/md-media.sublime-snippet",
-		"/home/serii/Settings/sublime-text-3/Packages/User/xl-meida.sublime-snippet",
-		"/home/serii/Settings/sublime-text-3/Packages/User/sm-media.sublime-snippet",
-		"/home/serii/Settings/sublime-text-3/Packages/User/xs-media.sublime-snippet",
-		"/home/serii/Settings/sublime-text-3/Packages/User/cus-media.sublime-snippet",
-		"/home/serii/Settings/sublime-text-3/Packages/User/lg-media.sublime-snippet",
-		"/var/www/transcargo.loc/src/assets/sass/home.scss",
-		"/home/serii/Settings/sublime-text-3/Packages/User/html-comment.sublime-snippet",
-		"/var/www/transcargo.loc/node_modules/imagemin-svgo/node_modules/csso/lib/replace/property/font.js",
-		"/var/www/test.loc/.gitignore",
-		"/var/www/test.loc/src/index.html",
-		"/var/www/test.loc/src/assets/sass/home.scss",
-		"/var/www/test.loc/src/templates/end.html",
-		"/var/www/test.loc/src/assets/i/home/mac.png",
-		"/var/www/start-template.loc/src/assets/sass/style.scss",
-		"/home/serii/Settings/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
-		"/home/serii/Settings/sublime-text-3/Packages/TerminalView/README.md",
-		"/var/www/start-template.loc/src/assets/header/header.scss",
-		"/var/www/start-template.loc/gulpfile.js",
-		"/var/www/start-template.loc/src/index.html",
-		"/var/www/start-template.loc/src/assets/sass/partials/_variables.scss",
-		"/var/www/start-template.loc/src/assets/sass/partials/_start.scss",
-		"/var/www/start-template.loc/src/assets/sass/partials/_sprite_template.scss",
-		"/var/www/start-template.loc/src/assets/sass/partials/_mixins.scss",
-		"/var/www/start-template.loc/src/assets/sass/partials/_icons.scss",
-		"/var/www/start-template.loc/src/assets/sass/partials/_iconmoon.scss",
-		"/var/www/start-template.loc/src/assets/sass/partials/_fonts.scss",
-		"/var/www/start-template.loc/src/assets/js/main.js",
-		"/var/www/start-template.loc/src/templates/end.html",
-		"/var/www/start-template.loc/src/templates/head.html",
-		"/home/serii/Документы/virtualbox/hat.svg",
-		"/var/www/test.loc/style.scss",
-		"/var/www/test.loc/Gulp Results",
-		"/var/www/test.loc/src/templates/head.html",
-		"/var/www/test.loc/src/assets/header/header.scss",
-		"/var/www/test.loc/gulpfile.js",
-		"/var/www/test.loc/src/assets/libs/bootstrap/bootstrap.js",
-		"/home/serii/Settings/sublime-text-3/Packages/Gulp/Default (Linux).sublime-keymap",
-		"/home/serii/Settings/sublime-text-3/Packages/User/Gulp.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/Gulp/Gulp.sublime-settings",
-		"/var/www/test.loc/src/assets/sass/style.scss",
-		"/var/www/test.loc/node_modules/glob-watcher/test/main.js",
-		"/var/www/test.loc/node_modules/fontfacegen/lib/stylesheets.js",
-		"/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/src/index-20171219001110.html",
-		"/home/serii/Settings/sublime-text-3/Packages/FileDiffs/FileDiffs.sublime-settings",
-		"/var/www/test.loc/build/index.html",
-		"/home/serii/Settings/sublime-text-3/.sublime/Local History/var/www/test.loc/build/index-20171219000932.html",
-		"/home/serii/Settings/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/.sublime/Local History/home/serii/Settings/sublime-text-3/Packages/User/LocalHistory # first snapshot.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/User/Terminal.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-		"/home/serii/Загрузки/flex-site.loc/build/index.html",
-		"/home/serii/Загрузки/flex-site.loc/src/assets/sass/style.scss",
-		"/home/serii/Загрузки/flex-site.loc/src/assets/js/main.js",
-		"/tmp/mail.php",
-		"/home/serii/Settings/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
-		"/home/serii/Settings/sublime-text-3/Packages/User/my-comment.sublime-snippet",
-		"/home/serii/Settings/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-		"/var/www/test.loc/test.loc.todo",
-		"/home/serii/Settings/sublime-text-3/Packages/User/Gist.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/Gist/Gist.sublime-settings",
-		"/var/www/test.loc/node_modules/browser-sync/node_modules/serve-index/public/style.css",
-		"/home/serii/Settings/sublime-text-3/Packages/User/AutoBackups (Linux).sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/AutoBackups/AutoBackups (Linux).sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/User/BufferScroll.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/BufferScroll/BufferScroll.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/CSScomb/Default.sublime-keymap",
-		"/home/serii/Settings/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
-		"/home/serii/Settings/sublime-text-3/Packages/Inc-Dec-Value/Default (Linux).sublime-keymap",
-		"/home/serii/Settings/sublime-text-3/Packages/EasyMotion/Default (Linux).sublime-keymap",
-		"/home/serii/Settings/hotkeys-sublime.txt",
-		"/home/serii/Settings/sublime-text-3/Packages/User/CSScomb.sublime-settings",
-		"/var/www/test.loc/.csscomb.json",
-		"/home/serii/Settings/sublime-text-3/Packages/CSScomb/CSScomb.sublime-settings",
-		"/home/serii/Settings/sublime-text-3/Packages/CSScomb/README.md",
-		"/var/www/test.loc/build/assets/css/style.css",
-		"/var/www/test.loc/build/assets/js/main.js",
-		"/var/www/test.loc/package.json",
-		"/home/serii/Settings/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-		"/var/www/test.loc/src/assets/sass/bootstrap_skin.scss",
-		"/home/serii/Settings/sublime-text-3/Packages/zzz A File Icon zzz/patches/general/multi/Default.sublime-theme",
-		"/var/www/stepantev.loc/index.html",
-		"/home/serii/Downloads/branches/README.txt",
-		"/home/serii/.config/sublime-text-3/.sublime/Local History/var/www/stepantev.loc/index-20171123154210.html",
+		"/var/www/portfolio.loc/src/index.html",
 		"/home/serii/.config/sublime-text-3/Packages/User/LocalHistory.sublime-settings",
+		"/home/serii/.config/sublime-text-3/.sublime/Local History/var/www/stroi-invest.loc/src/index-20180324172948.html",
 		"/home/serii/.config/sublime-text-3/Packages/Local History/settings/LocalHistory.sublime-settings",
-		"/var/www/test.site/labs/lab-3-2.html",
-		"/var/www/test.site/module-3/demo-3-2.html",
-		"/var/www/test.site/module-3/demo-3-1.html",
-		"/var/www/test.site/labs/lab-3-1.html",
-		"/var/www/test.site/labs/lab-2-2.html",
-		"/var/www/test.site/js/lab-1.js",
-		"/var/www/test.site/module-2/demo-2-3.html",
-		"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
-		"/home/serii/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-		"/home/serii/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
-		"/var/www/test.site/module-2/demo-2-2.html",
-		"/var/www/test.site/js/lab-2-1.js",
-		"/var/www/test.site/labs/lab-2-1.html",
-		"/var/www/test.site/css/style.css",
-		"/var/www/test.site/module-2/demo-2-1.html",
-		"/var/www/test.site/js/module-2/module-2.js",
-		"/var/www/test.site/index.html",
-		"/var/www/test.site/labs/lab-1.html",
-		"/var/www/test.site/script.js",
-		"/var/www/test.site/style.css",
-		"/home/serii/Документы/Cloud/Courses/JavaScript/Kantor/09/Log_29_05_2017.html",
-		"/var/www/test.site/public_html/script.js",
-		"/var/www/test.site/public_html/index.html",
-		"/home/serii/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-		"/home/serii/.config/sublime-text-3/Packages/User/swi.sublime-settings"
+		"/var/www/stroi-invest.loc/src/templates/end.html",
+		"/home/serii/.config/sublime-text-3/Packages/User/cmh.sublime-snippet",
+		"/var/www/stroi-invest.loc/src/templates/head.html",
+		"/var/www/stroi-invest.loc/gulpfile.js",
+		"/var/www/stroi-invest.loc/src/assets/sass/partials/_start.scss",
+		"/home/serii/.config/sublime-text-3/Packages/User/cmss.sublime-snippet",
+		"/var/www/stroi-invest.loc/src/index.html",
+		"/var/www/stroi-invest.loc/package.json",
+		"/var/www/start-template.loc/.gitignore",
+		"/var/www/start-template.loc/gulpfile.js",
+		"/var/www/start-template.loc/src/assets/sass/style.scss",
+		"/home/serii/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/var/www/start-template.loc/src/templates/head.html",
+		"/var/www/start-template.loc/src/templates/end.html",
+		"/var/www/start-template.loc/build/assets/css/style.css",
+		"/var/www/start-template.loc/src/assets/sass/partials/_variables.scss",
+		"/var/www/test.loc/package.json",
+		"/var/www/test.loc/gulpfile.js",
+		"/var/www/start-template.loc/gulp/tasks/watch.js",
+		"/var/www/start-template.loc/gulp/tasks/clean.js",
+		"/var/www/start-template.loc/gulp/tasks/browserSync.js",
+		"/var/www/start-template.loc/gulp/tasks/sass.js",
+		"/var/www/start-template.loc/gulp/config/tasks.js",
+		"/var/www/start-template.loc/gulp/tasks/html.js",
+		"/var/www/start-template.loc/package.json",
+		"/var/www/start-template.loc/gulp/tasks/default.js",
+		"/var/www/start-template.loc/src/index.html",
+		"/var/www/start-template.loc/build/css/style.css",
+		"/home/serii/.config/sublime-text-3/Packages/User/SyncSettings.sublime-settings",
+		"/home/serii/.config/sublime-text-3/Packages/Sync Settings/SyncSettings.sublime-settings"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
-		"height": 117.0,
+		"height": 104.0,
 		"where_history":
 		[
 		]
@@ -943,543 +328,18 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "gulpfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10816,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3492,
-								3492
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										4050,
-										4051
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										3491,
-										3492
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Gulpfile JS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1547.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 14920,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1009,
-								1009
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1012,
-										1013
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/double_quote.png",
-										"region.greenish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										979,
-										980
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/templates/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1726,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								643,
-								643
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.clone": -1,
-							"bracket_highlighter.clone_locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										830,
-										833
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										722,
-										725
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.clone_regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1709,
-										1712
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"region.orangish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										621,
-										624
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 38.0
+		"height": 27.0
 	},
 	"input":
 	{
-		"height": 52.0
+		"height": 65.0
 	},
 	"layout":
 	{
@@ -1504,21 +364,17 @@
 		]
 	},
 	"menu_visible": true,
-	"output.CSS Extended Completions":
+	"output.GitSavvy":
+	{
+		"height": 144.0
+	},
+	"output.SublimeLinter":
 	{
 		"height": 0.0
 	},
-	"output.GitSavvy":
+	"output.SublimeLinter Messages":
 	{
-		"height": 128.0
-	},
-	"output.clipboard_manager":
-	{
-		"height": 152.0
-	},
-	"output.exec":
-	{
-		"height": 208.0
+		"height": 122.0
 	},
 	"output.find_results":
 	{
@@ -1526,22 +382,14 @@
 	},
 	"output.git":
 	{
-		"height": 152.0
-	},
-	"output.gulp_output":
-	{
-		"height": 412.0
-	},
-	"output.mdpopups":
-	{
-		"height": 0.0
+		"height": 144.0
 	},
 	"output.show_commit_info":
 	{
-		"height": 128.0
+		"height": 144.0
 	},
 	"pinned_build_system": "",
-	"project": "portfolio.sublime-project",
+	"project": "portfolio.sublime-workspace",
 	"replace":
 	{
 		"height": 50.0
@@ -1554,296 +402,164 @@
 		"selected_items":
 		[
 			[
-				"head.ht",
-				"src/templates/head.html"
-			],
-			[
-				"index.",
+				"index.html",
 				"src/index.html"
-			],
-			[
-				"gull",
-				"gulpfile.js"
-			],
-			[
-				"gulpf",
-				"gulpfile.js"
-			],
-			[
-				"style.sc",
-				"src/assets/sass/style.scss"
-			],
-			[
-				"index.ht",
-				"src/index.html"
-			],
-			[
-				"gulp",
-				"gulpfile.js"
 			],
 			[
 				"main.js",
 				"src/assets/js/main.js"
 			],
 			[
-				"head",
-				"src/templates/head.html"
-			],
-			[
-				"style.scs",
-				"src/assets/sass/style.scss"
-			],
-			[
-				"style.",
-				"style.css"
-			],
-			[
-				"style",
-				"style.css"
-			],
-			[
-				"scri",
-				"script.js"
-			],
-			[
-				"index",
-				"src/index.html"
-			],
-			[
-				"header",
-				"src/assets/header/header.scss"
-			],
-			[
-				"mix",
-				"src/assets/sass/partials/_mixins.scss"
-			],
-			[
-				"vari",
-				"src/assets/sass/partials/_variables.scss"
-			],
-			[
-				"home.sc",
-				"src/assets/sass/home.scss"
-			],
-			[
-				"home.scss",
-				"src/assets/sass/home.scss"
-			],
-			[
-				"snippet",
-				"node_modules/imagemin-svgo/node_modules/csso/lib/replace/property/font.js"
-			],
-			[
-				"_mix",
-				"src/assets/sass/partials/_mixins.scss"
-			],
-			[
-				"variables",
-				"src/assets/sass/partials/_variables.scss"
-			],
-			[
-				"header.s",
-				"src/assets/header/header.scss"
-			],
-			[
-				"home",
-				"src/home.html"
-			],
-			[
-				"",
-				".gitignore"
-			],
-			[
 				"end",
 				"src/templates/end.html"
 			],
 			[
-				"variables.sc",
+				"start.scss",
+				"src/assets/sass/partials/_start.scss"
+			],
+			[
+				"head.hml",
+				"src/templates/head.html"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"index.",
+				"src/index.html"
+			],
+			[
+				"_start",
+				"src/assets/sass/partials/_start.scss"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"_vari",
 				"src/assets/sass/partials/_variables.scss"
 			],
 			[
-				"_mixi",
-				"src/assets/sass/partials/_mixins.scss"
+				"head.",
+				"src/templates/head.html"
 			],
 			[
-				"home.scs",
-				"src/assets/sass/home.scss"
+				"style.sc",
+				"src/assets/sass/style.scss"
 			],
 			[
 				"ind",
 				"src/index.html"
 			],
 			[
-				"varia",
-				"src/assets/sass/partials/_variables.scss"
-			],
-			[
-				"start",
-				"src/assets/sass/partials/_start.scss"
-			],
-			[
-				"sprite_",
-				"src/assets/sass/partials/_sprite_template.scss"
-			],
-			[
-				"mixins",
-				"src/assets/sass/partials/_mixins.scss"
-			],
-			[
-				"icons.sc",
-				"src/assets/sass/partials/_icons.scss"
-			],
-			[
-				"iconmoo",
-				"src/assets/sass/partials/_iconmoon.scss"
-			],
-			[
-				"font.sc",
-				"src/assets/sass/partials/_fonts.scss"
-			],
-			[
-				"main",
-				"src/assets/js/main.js"
-			],
-			[
-				"inde",
-				"src/index.html"
-			],
-			[
-				"style.s",
-				"style.scss"
-			],
-			[
-				"stle",
-				"style.css"
-			],
-			[
-				"_var",
-				"src/assets/sass/partials/_variables.scss"
-			],
-			[
-				"header.sc",
-				"src/assets/header/header.scss"
-			],
-			[
-				"gulpfi",
-				"gulpfile.js"
-			],
-			[
-				"inde.",
-				"build/index.html"
-			],
-			[
-				"styl",
-				"build/assets/css/style.css"
-			],
-			[
-				"packag",
+				"pak",
 				"package.json"
 			],
 			[
-				"boots",
-				"src/assets/sass/bootstrap_skin.scss"
+				"style.scss",
+				"src/assets/sass/style.scss"
 			],
 			[
-				"re",
-				"README.md"
+				"head",
+				"src/templates/head.html"
 			],
 			[
-				"lab-3-2",
-				"labs/lab-3-2.html"
-			],
-			[
-				"demo",
-				"module-3/demo-3-2.html"
-			],
-			[
-				"labs-3-1",
-				"labs/lab-3-1.html"
-			],
-			[
-				"lab",
-				"js/lab-1.js"
-			],
-			[
-				"dem",
-				"module-2/demo-2-3.html"
-			],
-			[
-				"demo-",
-				"module-2/demo-2-2.html"
-			],
-			[
-				"lab-2",
-				"js/lab-2-1.js"
-			],
-			[
-				"module.",
-				"js/module-2/module-2.js"
-			],
-			[
-				"module-2.js",
-				"js/module-2/module-2.js"
-			],
-			[
-				"lab-1.js",
-				"js/lab-1.js"
-			],
-			[
-				"script",
-				"script.js"
-			],
-			[
-				"scr",
-				"public_html/script.js"
-			],
-			[
-				"sc",
-				"public_html/script.js"
-			],
-			[
-				"scrip",
-				"public_html/script.js"
-			],
-			[
-				"scritp",
-				"public_html/script.js"
-			],
-			[
-				"sytl",
-				"public_html/style.css"
-			],
-			[
-				".es",
-				".eslintrc"
+				"pack",
+				"package.json"
 			],
 			[
 				".gi",
 				".gitignore"
 			],
 			[
-				"scit",
-				"public_html/script.js"
+				"style.scs",
+				"src/assets/sass/style.scss"
 			],
 			[
-				"iin",
-				"public_html/index.html"
+				"variable.scss",
+				"src/assets/sass/partials/_variables.scss"
 			],
 			[
-				"bun",
-				"public/bundle.min.css"
+				"glpf",
+				"gulpfile.js"
+			],
+			[
+				"w",
+				"gulp/tasks/watch.js"
+			],
+			[
+				"clea",
+				"gulp/tasks/clean.js"
+			],
+			[
+				"brow",
+				"gulp/tasks/browserSync.js"
+			],
+			[
+				"html",
+				"gulp/tasks/html.js"
+			],
+			[
+				"sass",
+				"gulp/tasks/sass.js"
+			],
+			[
+				"ta",
+				"gulp/config/tasks.js"
+			],
+			[
+				"de",
+				"gulp/tasks/default.js"
+			],
+			[
+				"watch",
+				"gulp/tasks/watch.js"
+			],
+			[
+				"sass.js",
+				"gulp/tasks/sass.js"
+			],
+			[
+				"html.js",
+				"gulp/tasks/html.js"
+			],
+			[
+				"task",
+				"gulp/config/tasks.js"
+			],
+			[
+				"hea",
+				"src/templates/head.html"
+			],
+			[
+				"inde",
+				"src/index.html"
+			],
+			[
+				"sy",
+				"src/assets/sass/style.scss"
+			],
+			[
+				"vari",
+				"src/assets/sass/partials/_variables.scss"
+			],
+			[
+				"gul",
+				"gulpfile.js"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 0.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 380.0
+		"width": 0.0
 	},
 	"select_symbol":
 	{
@@ -1862,7 +578,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 262.0,
+	"side_bar_width": 245.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
